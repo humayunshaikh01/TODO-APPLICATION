@@ -1,0 +1,13 @@
+.mainContainer{
+    border: solid 5px black;
+    border-radius: 2%;
+    background-image: url("./assests/todo\ img.jpeg");
+    background-size: cover;
+   
+}
+
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    
+}
